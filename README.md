@@ -27,3 +27,4 @@ To run this project locally, follow these steps:
 
 Clone this repository to your local machine.
 
+by using `git clone`
